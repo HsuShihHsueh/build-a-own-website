@@ -12,7 +12,7 @@ the process can divide into three subprocess：
 3. get a free website domain from 【freenom】
 ```
 
-## STEP 1： write a calculate in <b>HTML<\b> + 【Javascript】
+## STEP 1： write a calculate in <b>HTML</b> + 【Javascript】
 
 ## STEP 2： get a free website server from 【000webhost】
 
