@@ -22,13 +22,16 @@ First, create a account and sign in.<br>
 
 Seocnd, create a new project<br>
 
-Third, pop the code you write on STEP 1(remember to change the name to "index.html")<br>
+Third, go：Tools/File Manager, pop the code you write on STEP 1(remember to change the name to "index.html")<br>
 
 Now your code is on ```xxxxxxx.000webhostapp.com```.<br>
-Fourth, 
+
+But the website link which 000webhost provides is too long and hard memroize. Fortunately, we could use the other domain which Freenom provide from to shorter our website link.<br><br>
+Fourth, go：Tools/Set Web Address to **Park domain**<br>
+Type the Domain name.<br>
+
 
 ## STEP 3： get a free website domain from 【freenom】
-Since the website link which 000webhost provides is too long and hard memroize.<br>
 <b>Freenom</b> provide a free website domain such as ```.ga``` or ```.tk```  ...<br>
 
 First,  create a account and sign in.<br>
@@ -47,4 +50,4 @@ After serveral times(usually 1 day),your website is ready on ```xxxxxxx.ga``` !<
 
 
 ##
-if you want to kenow clearly about the process, welcome to watch my youtube channel.
+if you want to know clearly about the process, welcome to watch my youtube channel.
