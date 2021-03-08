@@ -26,3 +26,15 @@ Seocnd, <br>
 Since the website link which 000webhost provides is too long and hard memroize.<br>
 <b>Freenom</b> provide a free website domain such as ```.ga``` or ```.tk```  ...<br>
 
+First,  create a account and sign in.<br>
+
+Second, choose the domian you want.<br>
+
+Third,  go to： freenom/my domain/Management Tools/Use custom nameservers and type
+  Nameserver 1<br>
+  ```ns01.000webhost.com```<br>
+  Nameserver 2<br>
+  ```ns02.000webhost.com```<br>
+
+##
+if you want to kenow clearly about the process, welcome to watch my youtube channel.
