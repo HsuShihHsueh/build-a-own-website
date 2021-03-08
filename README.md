@@ -13,16 +13,16 @@ the process can divide into three subprocess：
 ```
 
 ## STEP 1： write a calculate in 【HTML】 + 【Javascript】
-Since HTML only provide a interface to display thoe code, it needs Javascript to make the program works.
-The whole code is on ```cal_v2.html```
+Since HTML only provide a interface to display thoe code, it needs Javascript to make the program works.<br>
+The whole code is on ```cal_v2.html```<br>
 
 ## STEP 2： get a free website server from 【000webhost】
-<b>000webhost</b>provide a free website server that you can pop code or even data library on it.
-First, create a account.
+<b>000webhost</b>provide a free website server that you can pop code or even data library on it.<br>
+First, create a account.<br>
 
-Seocnd, 
+Seocnd, <br>
 
 ## STEP 3： get a free website domain from 【freenom】
-Since the website link which 000webhost provides is too long and hard memroize.
-<b>Freenom</b>provide a free website domain such as ```.ga``` or ```.tk``` ...
+Since the website link which 000webhost provides is too long and hard memroize.<br>
+<b>Freenom</b>provide a free website domain such as ```.ga``` or ```.tk``` ...<br>
 
