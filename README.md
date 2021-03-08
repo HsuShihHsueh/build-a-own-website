@@ -42,5 +42,9 @@ Third,  go to： freenom/my domain/Management Tools/Use custom nameservers and t
   Nameserver 2<br>
   ```ns02.000webhost.com```<br><br>
 to link to 000webhost.com<br>
+
+After serveral times(usually 1 day),your website is ready on ```xxxxxxx.ga``` !<br>
+
+
 ##
 if you want to kenow clearly about the process, welcome to watch my youtube channel.
