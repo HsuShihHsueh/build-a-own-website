@@ -30,7 +30,7 @@ First,  create a account and sign in.<br>
 
 Second, choose the domian you want.<br>
 
-Third,  go to： freenom/my domain/Management Tools/Use custom nameservers and type
+Third,  go to： freenom/my domain/Management Tools/Use custom nameservers and type：<br>
   Nameserver 1<br>
   ```ns01.000webhost.com```<br>
   Nameserver 2<br>
