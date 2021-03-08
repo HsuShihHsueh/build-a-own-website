@@ -17,12 +17,12 @@ Since HTML only provide a interface to display thoe code, it needs Javascript to
 The whole code is on ```cal_v2.html```<br>
 
 ## STEP 2： get a free website server from 【000webhost】
-<b>000webhost</b>provide a free website server that you can pop code or even data library on it.<br>
+<b>000webhost</b> provide a free website server that you can pop code or even data library on it.<br>
 First, create a account.<br>
 
 Seocnd, <br>
 
 ## STEP 3： get a free website domain from 【freenom】
 Since the website link which 000webhost provides is too long and hard memroize.<br>
-<b>Freenom</b>provide a free website domain such as ```.ga``` or ```.tk``` ...<br>
+<b>Freenom</b> provide a free website domain such as ```.ga``` or ```.tk```  ...<br>
 
