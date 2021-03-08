@@ -2,7 +2,7 @@
 👇 youtube link<br>
 <kbd><a href="https://www.youtube.com/watch?v=c_hv4BbzV-I" target=_blank><img src="https://img.youtube.com/vi/c_hv4BbzV-I/maxresdefault.jpg" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
 
-##The main idea
+## The main idea
 Since there is no comfortable app or website to calculate parallel circuit(//), 
 so why don't we build a own website to deal this the problem ?
 the process can divide into three subprocess：
@@ -18,9 +18,14 @@ The whole code is on ```cal_v2.html```<br>
 
 ## STEP 2： get a free website server from 【000webhost】
 <b>000webhost</b> provide a free website server that you can pop code or even data library on it.<br>
-First, create a account.<br>
+First, create a account and sign in.<br>
 
-Seocnd, <br>
+Seocnd, create a new project<br>
+
+Third, pop the code you write on STEP 1(remember to change the name to "index.html")<br>
+
+Now your code is on ```xxxxxxx.000webhostapp.com```.<br>
+Fourth, 
 
 ## STEP 3： get a free website domain from 【freenom】
 Since the website link which 000webhost provides is too long and hard memroize.<br>
@@ -28,13 +33,14 @@ Since the website link which 000webhost provides is too long and hard memroize.<
 
 First,  create a account and sign in.<br>
 
-Second, choose the domian you want.<br>
+Second, choose the domian you want.(under 12 months is free, and if 12 months is done, it will ask you wheather want to extend)<br>
+It will mail you when your domian is ready.<br>
 
 Third,  go to： freenom/my domain/Management Tools/Use custom nameservers and type：<br><br>
-  <t>Nameserver 1<br>
+  Nameserver 1<br>
   ```ns01.000webhost.com```<br>
   Nameserver 2<br>
-  ```ns02.000webhost.com```<br>
-
+  ```ns02.000webhost.com```<br><br>
+to link to 000webhost.com<br>
 ##
 if you want to kenow clearly about the process, welcome to watch my youtube channel.
