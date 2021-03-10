@@ -14,7 +14,7 @@ the process can divide into three subprocess：
 
 ## STEP 1： write a calculate in 【HTML】 + 【Javascript】
 Since HTML only provide a interface to display thoe code, it needs Javascript to make the program works.<br>
-The whole code is on ```cal_v2.html```<br>
+The whole code is on ```cal_v2.html```<br><br>
 <kbd><img src="/pic/calculator.png" width="200" /></kbd><br>
 
 ## STEP 2： get a free website server from 【000webhost】
