@@ -61,4 +61,4 @@ If you see the subdomian your website is ready on ```xxxxxxx.ga``` !<br>
 <img src="/pic/freenom4.png" width="600" /><br>
 
 ##
-if you want to know clearly about the process, welcome to watch my youtube channel.
+if you want to know more clearly about the process, welcome to watch my youtube channel.
