@@ -1,6 +1,6 @@
 # How to build a own website
 👇 youtube link<br>
-<kbd><a href="https://www.youtube.com/watch?v=c_hv4BbzV-I" target=_blank><img src="https://img.youtube.com/vi/c_hv4BbzV-I/maxresdefault.jpg" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
+<kbd><a href="https://www.youtube.com/watch?v=9Q5r9FLCIx8" target=_blank><img src="https://img.youtube.com/vi/9Q5r9FLCIx8/maxresdefault.jpg" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
 
 ## The main idea
 Since there is no comfortable app or website to calculate parallel circuit(//), 
