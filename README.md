@@ -62,6 +62,6 @@ If you see the subdomian your website is ready on ```xxxxxxx.ga``` !<br>
 
 ##
 if you want to know more clearly about the process, welcome to watch my youtube channel.<br>
+<a href="https://www.youtube.com/">on github.io</a>
 
-<a herf="https://www.youtube.com/">on github.io</a><br>
 <a href="https://www.youtube.com/">on github.io</a>
