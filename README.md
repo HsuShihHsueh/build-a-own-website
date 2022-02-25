@@ -62,4 +62,4 @@ If you see the subdomian your website is ready on ```xxxxxxx.ga``` !<br>
 
 ##
 if you want to know more clearly about the process, welcome to watch my youtube channel.<br>
-<a href="https://majaja068.github.io/build-a-own-website/cal_v2.html">on github.io</a>
+<a href="https://HsuShihHsueh.github.io/build-a-own-website/cal_v2.html">on github.io</a>
