@@ -1,0 +1,18 @@
+{
+	"name" : "build-a-own-website",
+	"thumbnail" : "https://img.youtube.com/vi/9Q5r9FLCIx8/maxresdefault.jpg",
+	"project_zh" : "如何利用免費資源建置個人網頁",
+	"project_en" : "How to build a own website for free",
+	"hashtag" : ["#HTML+JS","#000webhost","#Freenom","#Algorithm"],
+	"description_zh" : "本項目使用了搭建了一個具有計算並聯運算功能的計算機並使用兩個免費建置網站的功能，建置在'calplus.ga'上，，計算機主要使用了'infix-to-suffix'演算法來達成",
+	"description_en" : "In this project we public a calculator on website 'ntust.ga' by using 000webhost & freenom which provides website server for free. As for how the calculator works, it's using the infix-to-suffix algorithm.",
+	"github" : "https://github.com/HsuShihHsueh/build-a-own-website",
+	"youtube" : "https://www.youtube.com/watch?v=9Q5r9FLCIx8",
+	"date" : "Last Updated : 2021-02-18",
+	"picture" : [
+		"https://img.youtube.com/vi/9Q5r9FLCIx8/maxresdefault.jpg",
+		"https://raw.githubusercontent.com/HsuShihHsueh/build-a-own-website/main/pic/freenom4.png",
+		"https://raw.githubusercontent.com/HsuShihHsueh/build-a-own-website/main/pic/freenom2.png",
+		"https://raw.githubusercontent.com/HsuShihHsueh/build-a-own-website/main/pic/000webhost5.png"
+	]
+}
